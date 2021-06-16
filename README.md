@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Josh
 - 👀 I’m interested in competitive programming and software development.
-- 🌱 I’m currently learning about algorithms and data structures and pygame development.
-- 💞️ I’m not looking to collaborate yet, but I hope I'll find something I want to work on!
+- 🌱 I’m currently learning about USACO and pygame development.
+- 💞️ I'm not collaborating currently, but feel free to reach out!
 - 📫 How to reach me: liu.joshua555@gmail.com or joshualiu555 on CodeForces
 
 <!---
